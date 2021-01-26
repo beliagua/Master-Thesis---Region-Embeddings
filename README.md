@@ -1,0 +1,2 @@
+# Master-Thesis---Region-Embeddings
+This thesis is an implementation of the PyTre Python package through three different cases. This package provides a model that uses embeddings as a tool for categorical variables treatment. Its main purposes are first the dimensionality reduction that is achieved compared with other methods (e.g. dummy variables) and second the meaning that can give to these variables and the consequences that it generates, as semantic similarity measurements.
